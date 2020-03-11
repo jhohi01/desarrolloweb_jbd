@@ -1,0 +1,46 @@
+
+#cabeza{
+	width: 900px;
+	height: 150px;
+	background: #9cd5f7;
+	text-align: center;
+	color : black;
+	font-family: arial;
+}
+#izq{
+	width: 120px;
+	height: 250px;	
+	background: #8e8e8f;
+	float:left;
+}
+#der{
+	width: 780px;
+	height: 250px;	
+	background: #ececec;
+	float:left;
+	color:black;
+
+}
+ul.menu{
+	width:100px;
+	list-style:none;
+	margin:0;
+	padding:0;
+	border-left: 1px solid #7c7c7c;
+}
+
+ul.menu li a:link, ul.menu li a:visited{
+	padding: .3em;
+	display:block;
+	text-decoration: none;
+	color:#333;
+	background: #f4f4f4;
+	border-top:1px solid #7c7c7c;
+	border-right: 1px solid #7c7c7c;
+	border-bottom:1px solid #9c9c9c;
+}
+#imagen{
+	float:left;
+	width: 25px;
+	height: 25px;
+}
